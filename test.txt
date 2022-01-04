@@ -1,5 +1,5 @@
 Esto es una prueba 
 De git
 
-En donde tambien aprenderemos a usar llaves SSH
+Ya sabemos como usar las llaves
 
