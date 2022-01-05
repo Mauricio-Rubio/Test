@@ -2,3 +2,7 @@ Esta barra debe ser responsiva
 Y contar con los logos de la empresa
 Asi como con la mision de esta
 Y los datos del spaceX
+
+Ademas, podemos agregar un difuminado
+de colores para que se vea mas 
+perron
