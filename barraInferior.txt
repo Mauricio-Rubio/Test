@@ -3,6 +3,5 @@ Y contar con los logos de la empresa
 Asi como con la mision de esta
 Y los datos del spaceX
 
-Ademas, podemos agregar un difuminado
-de colores para que se vea mas 
-perron
+Resulta que mejor cambiamos 
+a un color mas claro, a un color rosa
